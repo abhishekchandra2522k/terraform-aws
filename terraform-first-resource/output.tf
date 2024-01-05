@@ -3,5 +3,5 @@ output "repourl" {
 }
 
 output "cloneurl" {
-    value = github_repository.first-automated-repo.git_clone_url
+  value = github_repository.first-automated-repo.git_clone_url
 }
