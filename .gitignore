@@ -34,3 +34,7 @@ override.tf.json
 terraform.rc
 .terraform.*
 .terraform
+
+#keys
+id_rsa
+id_rsa.pub
